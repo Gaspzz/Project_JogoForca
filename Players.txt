@@ -1,0 +1,10 @@
+Victor	5200
+thiago
+	1300
+Lucas
+Lucas	800
+
+cd "d:\C(PROGRAMACAO)\FORCA\" ; if ($?) { gcc mai	3800
+cd "d:\C(PROGRAMACAO)\FORCA\" ; if ($?) { gcc mai
+Lucas
+Lucas	6600
